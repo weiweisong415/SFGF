@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE / OS
+.idea/
+.DS_Store
+
+# paper PDF (copyright: published version should not be hosted publicly)
+*.pdf
+
+# experiment outputs
+results/
+*.pkl
+
+# Houston2013 HSI cube exceeds GitHub's 100 MB file limit;
+# host it separately (Git LFS / cloud drive) if you push the repo
+dataset/Houston2013/Houston2013_HSI.mat
