@@ -70,8 +70,8 @@ If you find this code useful, please cite our paper:
 ```bibtex
 @article{SFGF,
   title={SFGF: Spatial-frequency Guidance Fusion for Joint Classification of Hyperspectral and LiDAR Data},
-  author={},
-  journal={},
-  year={}
+  author={Huadong Li, Han Peng, Weiwei Song, Yu Xia, Jing Chen, and Puhong Duan},
+  journal={IEEE Trans. Geosci. Remote Sens.},
+  year={2026}
 }
 ```
